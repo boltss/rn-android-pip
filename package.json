@@ -16,6 +16,6 @@
   "author": "Shaun Chiang",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "0.68.0"
+    "react-native": ">= 0.68.0"
   }
 }
